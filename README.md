@@ -12,7 +12,6 @@ The **YouTube Video Downloader** is a cross-platform desktop application that pr
   ```bash
   pip install yt-dlp
   ```
-  citeturn1search0
 
 - **ffmpeg** is recommended for merging separate video and audio streams into a single file. It can be installed via your platform’s package manager:
   - **Linux (Debian/Ubuntu)**:
