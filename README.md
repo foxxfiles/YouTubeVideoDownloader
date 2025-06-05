@@ -1,6 +1,6 @@
 # YouTube Video Downloader
 
-The **YouTube Video Downloader** is a cross-platform desktop application that provides a graphical user interface (GUI) for downloading videos and audio from YouTube. Built with the Tkinter library and utilizing yt-dlp for media retrieval citeturn1search0, this application simplifies the process of obtaining YouTube content without requiring command-line expertise.
+The **YouTube Video Downloader** is a cross-platform desktop application that provides a graphical user interface (GUI) for downloading videos and audio from YouTube. Built with the Tkinter library and utilizing yt-dlp for media retrieval, this application simplifies the process of obtaining YouTube content without requiring command-line expertise.
 
 ## Quick Start
 
